@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mandakh (Erek)!
 💻 Full-Stack Developer | 🚀 Open Source Enthusiast | 📚 Tech Learner  
-![Funny GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+![GIF](https://media.giphy.com/media/6FxJBpNTBgWdJCXKD4/giphy.gif)
 
 ## 🌟 About Me  
 - 🔭 I’m working on **[KidSpace]**  
