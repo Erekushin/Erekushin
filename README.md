@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mandakh (Erek)!
 💻 Full-Stack Developer | 🚀 Open Source Enthusiast | 📚 Tech Learner  
-![My Profile Banner](https://github.com/your-username/your-repo-name/blob/main/banner.png)
+![Funny GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
 ## 🌟 About Me  
 - 🔭 I’m working on **[KidSpace]**  
