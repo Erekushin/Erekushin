@@ -10,7 +10,15 @@
 - 📱 Reach me at **+976 9525 8154**
 
 - ### 🔗 **Connect with Me**
-<div style="display: flex; gap: 10px;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <!-- Facebook Button -->
 <a href="https://www.facebook.com/mandakh.for.life/" target="_blank" style="display: inline-flex; align-items: center; padding: 10px 20px; background-color: #3b5998; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 20px; margin-right: 8px;" />
     Facebook
@@ -33,7 +41,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="width: 20px; margin-right: 8px;" />
     YouTube
   </a>
-</div>
+</body>
+</html>
 
 🚀 *Always exploring new technologies and improving my skills!* 
 https://erekcv.web.app/
