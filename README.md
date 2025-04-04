@@ -1,10 +1,13 @@
-I'm Mandakh (Erek)
-💻 Front-end developer | 📚 Philosopher    
-![GIF](https://media.giphy.com/media/6FxJBpNTBgWdJCXKD4/giphy.gif)
+# **Mandakh (Erek)**  
+💻 **Front-End Developer** | 📚 **Philosophy Enthusiast**  
 
-## 🌟 About Me  
-- 🔭 I’m working on **[KidSpace]** 
-- 🌱 Currently learning **[.Net Backend]**  
-- 💬 Ask me about **[Flutter, Firebase, Ubuntu]**  
-- 📫 facebook **[https://www.facebook.com/mandakh.for.life/]**
-- 📱 Phone Number +97695258154
+![GIF](https://media.giphy.com/media/6FxJBpNTBgWdJCXKD4/giphy.gif)  
+
+## 🌟 **About Me**  
+- 🔭 Currently working on **[KidSpace](#)**  
+- 🌱 Learning **.NET Backend Development**  
+- 💬 Ask me about **Flutter, Firebase, Ubuntu**  
+- 📫 Connect with me on **[Facebook](https://www.facebook.com/mandakh.for.life/)**  
+- 📱 Reach me at **+976 9525 8154**  
+
+🚀 *Always exploring new technologies and improving my skills!* 
