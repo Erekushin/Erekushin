@@ -1,7 +1,7 @@
 # **Mandakh (Erek)**  
 💻 **Front-End Developer** | 📚 **Philosophy Enthusiast**  
 
-![GIF](https://media.giphy.com/media/6FxJBpNTBgWdJCXKD4/giphy.gif)  
+![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5sNDcxemN0Y3ltdmpoN2Z4NHJxMHQxZTc2YXZuczltM2J5c2JqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPvxye1AAZXBk7m/giphy.gif)
 
 ## 🌟 **About Me**  
 - 🔭 Currently working on **[KidSpace](#)**  
