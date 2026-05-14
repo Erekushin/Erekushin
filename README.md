@@ -4,8 +4,8 @@
 ![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBnYXFubXR0ajhncGRsc3Fkam43cGdiaWRlN2xkd3d0ZjNzcXJhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 ## 🌟 **About Me**  
-- 🔭 Currently working on **[KidSpace](#)**  
-- 🌱 Learning **.NET Backend Development**  
+- 🔭 Currently working on **[EAccounting, Cybestate](#)**  
+- 🌱 Learning **React, Spring boot**  
 - 💬 Ask me about **Flutter, Firebase, Ubuntu**    
 - 📱 Reach me at **+976 9525 8154**
 
@@ -40,4 +40,4 @@
 
 
 🚀 *Always exploring new technologies and improving my skills!* 
-https://erekcv.web.app/
+https://cyboron.online/
