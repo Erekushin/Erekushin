@@ -30,7 +30,7 @@
   </a>
   
   <!-- YouTube Button -->
-  <a href="https://www.youtube.com/@erekmandah44" target="_blank" style="display: inline-flex; align-items: center; padding: 10px 20px; background-color: #FF0000; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 5px;">
+  <a href="https://www.youtube.com/@mandahmultiverse" target="_blank" style="display: inline-flex; align-items: center; padding: 10px 20px; background-color: #FF0000; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="width: 20px; margin-right: 8px;" />
     YouTube
   </a>
