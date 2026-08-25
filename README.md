@@ -1,12 +1,12 @@
 # **Mandakh (Erek)**  
-💻 **Front-End Developer** | 📚 **Philosophy Enthusiast**  
+💻 **Software Engineer** | 📚 **Philosophy Enthusiast**  
 
 ![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBnYXFubXR0ajhncGRsc3Fkam43cGdiaWRlN2xkd3d0ZjNzcXJhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 ## 🌟 **About Me**  
-- 🔭 Currently working on **[EAccounting, Cybestate, Cyboron](https://cybstate.web.app/)**  
-- 🌱 Learning **React, Spring boot**  
-- 💬 Ask me about **Flutter, Firebase, Ubuntu**    
+- 🔭 Currently working on **[EAccounting, Cognexus, Erek-System, Cybestate, Cyboron](https://cybstate.web.app/)**  
+- 🌱 Learning **Matrix multiplication,Transpose,Matrix inverse**  
+- 💬 Ask me about **Flutter, Firebase, additionally philosophical questions or anything you want to ask**    
 - 📱 Reach me at **+976 9525 8154**
 
 - ### 🔗 **Connect with Me**
