@@ -1,6 +1,6 @@
 # Mandakh "Erek"
 
-Software Engineer building practical products with Flutter and Firebase.
+Software Engineer building practical products.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cyboron.online-0A66C2?style=flat-square)](https://cyboron.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Erek%20Mandah-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/erek-mandah-02090a246/)
@@ -9,7 +9,7 @@ Software Engineer building practical products with Flutter and Firebase.
 
 ## About
 
-I focus on turning ideas into working software: mobile apps, Firebase-backed systems,
+I focus on turning ideas into working software: mobile apps, systems,
 automation tools, and web products. I like building useful systems first, then
 improving the experience until the product feels simple to use.
 
